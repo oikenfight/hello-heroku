@@ -1,2 +1,2 @@
 <?php
-echo "HELLO HEROKU";
+echo "HELLO HEROKU updated";
